@@ -12,7 +12,7 @@ pyfastcom
 
 .. image:: https://img.shields.io/badge/python-3.4+-red.svg
     :target: https://www.python.org/downloads
-    :alt: /3.4+
+    :alt: Python 3.4+
 
 .. image:: https://badge.fury.io/py/pyfastcom.svg
     :target: https://pypi.org/project/pyfastcom
