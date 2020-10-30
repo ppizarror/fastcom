@@ -1,5 +1,15 @@
 # fastcom
 
+<div align="left">
+<a href="https://ppizarror.com"><img alt="@ppizarror" src="https://img.shields.io/badge/author-Pablo%20Pizarro%20R.-lightgray.svg" /></a>
+<a href="https://opensource.org/licenses/MIT/"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
+<a href="https://www.python.org/downloads/"><img alt="Python 3.4+" src="https://img.shields.io/badge/python-3.4+-red.svg" /></a>
+<a href="https://pypi.org/project/pyfastcom"><img alt="PyPi" src="https://badge.fury.io/py/pyfastcom.svg" /></a>
+<br />
+<a href="https://travis-ci.org/ppizarror/pyfastcom"><img src="https://travis-ci.org/ppizarror/pygame-menu.svg?branch=v2" /></a>
+<a href="https://codecov.io/gh/ppizarror/pyfastcom"><img src="https://codecov.io/gh/ppizarror/pygame-menu/branch/v2/graph/badge.svg" /></a>
+</div><br />
+
 API that lets get the results from fast.com test using Selenium.
 
 ## Install

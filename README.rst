@@ -10,11 +10,11 @@ pyfastcom
     :target: https://opensource.org/licenses/MIT
     :alt: License MIT
 
-.. image:: https://img.shields.io/badge/3.4+-red.svg
+.. image:: https://img.shields.io/badge/python-3.4+-red.svg
     :target: https://www.python.org/downloads
     :alt: /3.4+
 
-.. image:: https://badge.fury.io/py/pygame-menu.svg
+.. image:: https://badge.fury.io/py/pyfastcom.svg
     :target: https://pypi.org/project/pyfastcom
     :alt: PyPi package
 
@@ -39,6 +39,6 @@ Source repo and documentation on `GitHub <https://github.com/ppizarror/pyfastcom
 Install Instructions
 --------------------
 
-Pygame-menu can be installed via pip. Simply run::
+pyfastcom can be installed via pip. Simply run::
 
     $> pip install pyfastcom
