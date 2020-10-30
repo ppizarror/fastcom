@@ -32,7 +32,7 @@ from pyfastcom import PyFastCom
 fast = PyFastCom()
 ```
 
-To configure the path of the webdriver (Chrome):
+To configure the path of the webdriver (Chrome as for now):
 
 ```python
 fast.set_driver_path('path/to/webdriver/executable/')
