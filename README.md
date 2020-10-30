@@ -55,4 +55,12 @@ Also, the results can be obtained through the following methods:
 - PyFastCom.*get_upload_speed()*: Returns the upload speed (int, str).
 - PyFastCom.*get_upload_latency()*: Returns the upload latency (int, str).
 
-Check out the provided example to see the complete usage scenario.
+Check out the provided <a href="https://github.com/ppizarror/pyfastcom/blob/main/example.py">example.py</a> to see the complete usage scenario.
+
+## Author
+
+[Pablo Pizarro R.](https://ppizarror.com) | 2020
+
+## License
+
+This project is licensed under MIT [https://opensource.org/licenses/MIT/](https://opensource.org/licenses/MIT/)
