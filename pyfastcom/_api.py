@@ -154,6 +154,8 @@ class PyFastCom(object):
         """
         Run speed test.
         """
+        self._results = None  # Remove the results
+        assert timeout > 0, 'Timeout must be greater than zero'
         try:
             results_html = query_results(timeout=timeout)
             soup = BeautifulSoup(results_html, 'html.parser')
@@ -167,8 +169,14 @@ class PyFastCom(object):
         """
         Assert that run has been done and return the given value.
         """
-        assert self._results is not None, 'Results not exists. Execute .run() method first'
+        assert self.ready(), 'Results not exists. Execute .run() method first'
         return self._results[key]
+
+    def ready(self) -> bool:
+        """
+        Return true if the results exists.
+        """
+        return self._results is not None
 
     def get_client_ip(self) -> str:
         """

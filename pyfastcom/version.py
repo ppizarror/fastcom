@@ -2,9 +2,7 @@
 """
 pyfastcom
 https://github.com/ppizarror/pyfastcom
-
-VERSION
-Library version.
+PYFASTCOM VERSION
 
 License:
 -------------------------------------------------------------------------------
@@ -55,6 +53,6 @@ class Version(tuple):
     patch = property(lambda self: self[2])
 
 
-vernum = Version(1, 0, 0)
+vernum = Version(1, 1, 0)
 ver = str(vernum)
 rev = ''
