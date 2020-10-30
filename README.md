@@ -12,7 +12,7 @@
 <a href="https://pypi.org/project/pyfastcom/"><img alt="https://pypi.org/project/pyfastcom/" src="https://img.shields.io/pypi/dm/pyfastcom?color=purple" /></a>
 </div><br />
 
-API that lets get the results from fast.com test using Selenium.
+Python API that gets the results from fast.com test using Selenium.
 
 ## Install
 

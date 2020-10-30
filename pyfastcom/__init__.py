@@ -30,16 +30,13 @@ from pyfastcom._api import PyFastCom
 
 import pyfastcom.version
 
-"""
-Metadata: Information about the project
-"""
 __author__ = 'ppizarror'
 __contributors__ = [
 ]
 __copyright__ = 'Copyright 2020 Pablo Pizarro R. @ppizarror'
-__description__ = 'API that lets get the results from fast.com test using Selenium'
+__description__ = 'Python API that gets the results from fast.com test using Selenium'
 __email__ = 'pablo@ppizarror.com'
-__keywords__ = 'fast.com selenium internet velocity speed'
+__keywords__ = 'fast.com selenium internet velocity speed scrapper'
 __license__ = 'MIT'
 __url__ = 'https://github.com/ppizarror/pyfastcom'
 __url_source_code__ = 'https://github.com/ppizarror/pyfastcom'

@@ -34,6 +34,8 @@ pyfastcom
     :target: https://pypi.org/project/pyfastcom/
     :alt: PyPi downloads
 
+Python API that gets the results from fast.com test using Selenium.
+
 Source repo and documentation on `GitHub <https://github.com/ppizarror/pyfastcom>`_.
 
 Install Instructions
