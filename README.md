@@ -47,15 +47,15 @@ print(results) # {'client_ip': 'XXX', 'client_isp': 'XXX', 'client_location': 'X
 
 Also, the results can be obtained through the following methods:
 
-- PyFastCom.*get_client_ip()*: Returns the client IP (str).
-- PyFastCom.*get_client_isp()*: Returns the client ISP (str).
-- PyFastCom.*get_client_location()*: Returns the client location (str).
-- PyFastCom.*get_download_speed()*: Returns the download speed (int, str).
-- PyFastCom.*get_download_latency()*: Returns the download latency (int, str).
-- PyFastCom.*get_upload_speed()*: Returns the upload speed (int, str).
-- PyFastCom.*get_upload_latency()*: Returns the upload latency (int, str).
-- PyFastCom.*get_server_info()*: Returns the server info (str).
-- PyFastCom.*ready()*: Returns true if the results exists.
+- PyFastCom.**get_client_ip()**: Returns the client IP, *str*
+- PyFastCom.**get_client_isp()**: Returns the client ISP, *str*
+- PyFastCom.**get_client_location()**: Returns the client location, *str*
+- PyFastCom.**get_download_speed()**: Returns the download speed, *(int, str)*
+- PyFastCom.**get_download_latency()**: Returns the download latency, *(int, str)*
+- PyFastCom.**get_upload_speed()**: Returns the upload speed, *(int, str)*
+- PyFastCom.**get_upload_latency()**: Returns the upload latency, *(int, str)*
+- PyFastCom.**get_server_info()**: Returns the server info, *str*
+- PyFastCom.**ready()**: Returns true if the results exists, *bool*
 
 Check out the provided <a href="https://github.com/ppizarror/pyfastcom/blob/main/example.py">example.py</a> to see the complete usage scenario.
 
