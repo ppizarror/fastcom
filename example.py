@@ -30,7 +30,7 @@ from pyfastcom import PyFastCom
 fast = PyFastCom()
 # Set the driver folder
 fast.set_driver_path('../.../../../../Software/WEBDRIVERS/chromedriver_win32/v86/')
-print(fast.run())
+fast.run()
 
 print(fast.get_client_ip())
 print(fast.get_client_isp())

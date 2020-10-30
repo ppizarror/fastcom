@@ -53,7 +53,7 @@ def get_chrome() -> 'Chrome':
     driver.close()
 
 
-def wait_visible(driver: 'Chrome', selector: str, timeout: int = 5):
+def wait_visible(driver: 'Chrome', selector: str, timeout: int = 5) -> None:
     """
     Wait for visible element.
 
@@ -141,7 +141,7 @@ class PyFastCom(object):
         self._results = None
 
     @staticmethod
-    def set_driver_path(path: str):
+    def set_driver_path(path: str) -> None:
         """
         Set the driver path.
 
