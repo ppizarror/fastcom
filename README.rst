@@ -18,14 +18,6 @@ pyfastcom
     :target: https://pypi.org/project/pyfastcom
     :alt: PyPi package
 
-.. image:: https://img.shields.io/lgtm/alerts/g/ppizarror/pyfastcom.svg?logo=lgtm&logoWidth=18
-    :target: https://lgtm.com/projects/g/ppizarror/pyfastcom/alerts
-    :alt: Total alerts
-
-.. image:: https://img.shields.io/lgtm/grade/python/g/ppizarror/pyfastcom.svg?logo=lgtm&logoWidth=18
-    :target: https://lgtm.com/projects/g/ppizarror/pyfastcom/context:python
-    :alt: Language grade: Python
-
 .. image:: https://img.shields.io/github/issues/ppizarror/pyfastcom
     :target: https://github.com/ppizarror/pyfastcom/issues
     :alt: Open issues
