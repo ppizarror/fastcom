@@ -5,9 +5,6 @@
 <a href="https://opensource.org/licenses/MIT/"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
 <a href="https://www.python.org/downloads/"><img alt="Python 3.4+" src="https://img.shields.io/badge/python-3.4+-red.svg" /></a>
 <a href="https://pypi.org/project/pyfastcom"><img alt="PyPi package" src="https://badge.fury.io/py/pyfastcom.svg" /></a>
-<br />
-<a href="https://lgtm.com/projects/g/ppizarror/pyfastcom/alerts"><img alt="Total alerts" src="https://img.shields.io/lgtm/alerts/g/ppizarror/pyfastcom.svg?logo=lgtm&logoWidth=18" /></a>
-<a href="https://lgtm.com/projects/g/ppizarror/pyfastcom/context:python"><img alt="Language grade: Python" src="https://img.shields.io/lgtm/grade/python/g/ppizarror/pyfastcom.svg?logo=lgtm&logoWidth=18" /></a>
 <a href="https://github.com/ppizarror/pyfastcom/issues"><img alt="Open issues" src="https://img.shields.io/github/issues/ppizarror/pyfastcom" /></a>
 <a href="https://pypi.org/project/pyfastcom/"><img alt="https://pypi.org/project/pyfastcom/" src="https://img.shields.io/pypi/dm/pyfastcom?color=purple" /></a>
 </div><br />
